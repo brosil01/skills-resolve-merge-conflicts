@@ -1,3 +1,3 @@
-# References
 
-* octocat 1 😈
+This file is to generate the conflict.
+
